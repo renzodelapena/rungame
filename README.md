@@ -9,4 +9,4 @@
 > A - Run Left <br>
 > Spacebar - Jump
 
-![Alt text](https://github.com/renzodelapena/first2d/blob/master/screenshots/2dgame.png "Screenshot")
+![Alt text](https://github.com/renzodelapena/rungame/blob/master/screenshots/Screenshot_1.png "Screenshot")
